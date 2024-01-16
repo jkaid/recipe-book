@@ -2,4 +2,5 @@
 
 * [🥣 Leves](README.md)
   * [TikTok leves](leves/tiktok-leves.md)
-* [🍜 Főzelék](<README (1).md>)
+* [🍜 Főzelék](readme/README.md)
+  * [Húsleves](readme/husleves.md)
